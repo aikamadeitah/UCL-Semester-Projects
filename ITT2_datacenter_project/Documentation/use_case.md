@@ -1,0 +1,1 @@
+USE CASE - We are building an IoT device to monitor the humidity levels of a server room and to monitor the temperature of the server racks. The sensors will then transfer the data they recieve every 15 seconds to a dashboard that is more easily read by the user. The user can then do with this information what they will.
